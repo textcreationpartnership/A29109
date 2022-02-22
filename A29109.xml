@@ -1,0 +1,322 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the Right Honourable Lord Mayor and Aldermen, and citizens of London, at St. Lawrence Jewry, on Saturday, September the 28th, 1700 at the election of the Lord Mayor, for the year ensuing / by Samvel Bradford ...</title>
+            <author>Bradford, Samuel, 1652-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29109</idno>
+            <idno type="STC">Wing B4122</idno>
+            <idno type="STC">ESTC R19662</idno>
+            <idno type="EEBO-CITATION">12115706</idno>
+            <idno type="OCLC">ocm 12115706</idno>
+            <idno type="VID">54291</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29109)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54291)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 759:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the Right Honourable Lord Mayor and Aldermen, and citizens of London, at St. Lawrence Jewry, on Saturday, September the 28th, 1700 at the election of the Lord Mayor, for the year ensuing / by Samvel Bradford ...</title>
+                  <author>Bradford, Samuel, 1652-1731.</author>
+               </titleStmt>
+               <extent>[8], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matt. Wotton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Isaiah I, 26 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="order">
+            <pb facs="tcp:54291:1"/>
+            <opener>
+               <salute>Levett Mayor.</salute> 
+               <dateline>
+                  <hi>Jovis</hi> iij<hi rend="sup">o</hi> 
+                  <hi>die</hi> Octobr' 1700. <hi>Annoque Regis</hi> Wilhelmi <hi>Tertij,</hi> Angl', <hi>&amp;c. Duodecimo.</hi>
+               </dateline>
+            </opener>
+            <p>THIS Court doth deſire Mr. <hi>Bradford</hi> to print his Sermon preach'd upon <hi>Saturday</hi> laſt before the Right Honourable the Lord Mayor, Aldermen, and Livery-Men of the City, at the Pariſh Church of St. <hi>Lawrence Jewry,</hi> before the Election of the Lord Mayor of this City for the Year Enſuing.</p>
+            <closer>
+               <signed>Aſhhurſt.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:54291:1"/>
+            <p>A SERMON Preach'd before THE RIGHT HONOURABLE The LORD MAYOR and Aldermen, AND Citizens of <hi>LONDON,</hi> AT St. <hi>LAWRENCE JEWRY,</hi> on <hi>Saturday, September</hi> the 28<hi rend="sup">th</hi>, 1700. At the Election of the Lord Mayor, for the Year Enſuing.</p>
+            <p>By <hi>SAM<g ref="char:V">Ʋ</g>EL BRADFORD,</hi> Rector of St. <hi>Mary le Bow,</hi> and Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Matt. Wotton</hi> at the <hi>Three Daggers</hi> near the <hi>Inner-Temple-Gate</hi> in <hi>Fleetſtreet.</hi> 1700.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:54291:2"/>
+            <p>Mr. <hi>BRADFORD</hi>'s SERMON Preached before The Lord Mayor, Aldermen, and Citizens of <hi>LONDON,</hi> AT St. <hi>Lawrence Jewry, Septemb.</hi> the 28. 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:54291:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:54291:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:54291:4"/>
+            <pb facs="tcp:54291:4"/>
+            <head>TO THE RIGHT HONOURABLE S<hi rend="sup">r</hi> RICHARD LEVET, Lord Mayor of the City of <hi>London,</hi> S<hi rend="sup">r</hi> THOMAS ABNEY L<hi rend="sup">d</hi> Mayor Elect, And the Court of Aldermen.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>YO<g ref="char:V">Ʋ</g>R Ordering this plain Diſcourſe to be printed, is a publick Declaration, that you approve of the Magiſtrates therein deſcribed. That Almighty God may al<g ref="char:EOLhyphen"/>ways incline your Hearts to act accordingly, and that there may be a conſtant Succeſſion of Able
+<pb facs="tcp:54291:5"/>and Good Magiſtrates; that you may be an Ho<g ref="char:EOLhyphen"/>nor to this Great City, and the City happy un<g ref="char:EOLhyphen"/>der your Adminiſtration, is the hearty Prayer, of</p>
+            <closer>
+               <salute>Right Honourable,</salute> 
+               <signed>
+                  <hi>Your moſt faithful and humble Servant,</hi> Samuel Bradford.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:54291:5"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ISAIAH I. 26.</hi>
+                  </bibl>
+                  <p>I will reſtore thy Judges as at the firſt, and thy Coun<g ref="char:EOLhyphen"/>ſellors as at the beginning: afterward thou ſhalt be called, The City of Righteouſneſs, the Faithful City.</p>
+               </q>
+            </epigraph>
+            <p>THESE Words contain in them a Promiſe of God's ſpecial Favour to the City of <hi>Jeruſalem,</hi> the Me<g ref="char:EOLhyphen"/>tropolis of <hi>Judea,</hi> and were ſpoken by the Pro<g ref="char:EOLhyphen"/>phet <hi>Iſaiah,</hi> for the comfort and ſupport of the Pious and Good Men therein, whilſt they heard of the Judg<g ref="char:EOLhyphen"/>ments which were at that time denounced againſt the Im<g ref="char:EOLhyphen"/>pious and Wicked.</p>
+            <p>It was, as appears by the precedeing part of this Chapter, a time of very great Corruption and Degeneracy among that People; for which they had already ſuffer'd many and great Calamities, as a juſt Puniſhment for their Tranſgreſſi<g ref="char:EOLhyphen"/>ons; but were hitherto far from being reclaim'd. They did indeed keep up a pretence and ſhew of Religion; but were at the ſame time very faulty in their Morals.
+<note place="margin">Ver. 11.13.</note> 
+               <hi>Sacrifices and Burnt-offerings</hi> they did not ſpare; <hi>the New Moons and the appointed Feſtivals</hi> they conſtantly obſerved; but they were notoriouſly guilty of Falſhood, Injuſtice, Unmercifulneſs and Oppreſſion. A little before the Text, their Character is given in very Emphatical Terms.
+<note place="margin">Ver. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> 
+               <hi>How is the Faithful City become an Harlot? It was full of Judgment, Righteouſneſs lodg<g ref="char:EOLhyphen"/>ed in it; but now Murderers. Thy Silver is become droſs, thy Wine mixt with Water.</hi> That is, They were become falſe to God, and unjuſt one towards another, and were Corrupted to that degree, that there was hardly any thing ſincere and genuine, any thing true and honeſt among them.</p>
+            <p>Nor was this Corruption only among the Common Peo<g ref="char:EOLhyphen"/>ple; but it had tainted Men of higher Rank alſo, even their Governors and Magiſtrates, as we find in the next Words.
+<pb n="2" facs="tcp:54291:6"/>
+               <hi>Thy Princes are Rebellious,</hi>
+               <note place="margin">Ver. 23.</note> 
+               <hi>and Companions of Thieves; every one loveth Gifts, and followeth after Rewards. They judge not the Fatherleſs, neither doth the cauſe of the Widow come unto them.</hi>
+            </p>
+            <p>Now this being their Caſe, it pleas'd God once again ſe<g ref="char:EOLhyphen"/>verely to Rebuke and Threaten them, letting them know, that he would yet make one Tryal more of them, uſing greater Severity than hitherto he had done, but not wholly abandoning them, deſigning by his Judgments to cut off the Incorrigible, but to preſerve to himſelf a Remnant, who ſhould be prevail'd upon by what they ſhould ſee and feel, to amend what was amiſs.
+<note place="margin">Ver. 24, 25.</note> So it follows; <hi>Therefore ſaith the Lord, the Lord of Hoſts, the mighty one of Iſrael, Ah, I will eaſe me of mine Adverſaries, and avenge me of mine Enemies. And I will turn my Hand upon thee, and purely purge away thy Droſs, and take away all thy Tin.</hi> And in order to the bring<g ref="char:EOLhyphen"/>ing about this thorow Reformation, God promiſeth to bleſs them with good Governors, who ſhould be his Inſtru<g ref="char:EOLhyphen"/>ments in accompliſhing what he intended. So we read in the Words of our Text; <hi>And I will reſtore thy Judges as at the firſt,</hi> &amp;c.</p>
+            <p>It is indeed obſervable by Experience, that Governors do commonly partake of the Virtues or Vices of the People over whom they are placed. If a general Corruption have overſpread any Community or Body of Men, their Rulers alſo are uſually tainted; and God in his Providence juſtly puniſheth the Tranſgreſſions of the People, by permitting them to fall into bad Hands; and 'tis part of their Puniſh<g ref="char:EOLhyphen"/>ment, and a terrible Effect of the Divine Diſpleaſure toward them, that theſe Governors ſtill increaſe and propagate the Corruption of which they partake. As on the other hand, both by the Inclination of a Virtuous People, and the Bleſ<g ref="char:EOLhyphen"/>ſing of God upon them, the management of their Affairs is uſually committed to Wiſe and Juſt Rulers; and when God out of his Infinite Goodneſs and Mercy, deſigns either to
+<pb n="3" facs="tcp:54291:6"/>reward a Virtuous Body of Men, or to amend a Vicious, He doth by his over-ruling Providence raiſe up ſuch to Govern them, as ſhall be careful to promote his Honour, and their Welfare. But to come to the Words themſelves.</p>
+            <p>By <hi>Judges,</hi> may be underſtood properly, thoſe who have the Authority and Power to make, or to execute Laws; and by <hi>Counſellors,</hi> thoſe whom they call in to their advice and aſſiſtance: Or, without nicely diſtinguiſhing, we may comprehend under theſe two Words, all that are in Autho<g ref="char:EOLhyphen"/>rity, or have the Management of Publick Affairs, whether Supream Governors, or Subordinate Magiſtrates. By <hi>reſtore<g ref="char:EOLhyphen"/>ing</hi> to them ſuch as were <hi>at the firſt,</hi> or <hi>at the beginning,</hi> is meant, the raiſing up for them ſuch as that People were bleſt with, when they were brought out of <hi>Egypt,</hi> and con<g ref="char:EOLhyphen"/>ducted into the Land of <hi>Canaan,</hi> who were acknowledged to have been Worthy Men, every way qualified for their Truſt, and to have diſcharged it faithfully to the Honour of God, and the Publick Good, encouraging and promo<g ref="char:EOLhyphen"/>ting Piety and Virtue, and keeping the Community in Peace and good Order. And after this ſhould come to paſs, <hi>Jeruſalem</hi> ſhould then <hi>be called,</hi> that is, ſhould be fitly or properly <hi>called,</hi> foraſmuch as it ſhould really be, <hi>The City of Righteouſneſs, the Faithful City;</hi> that is, it ſhould become thence-forward, eminent for its Virtue and Piety, it ſhould be Remarkably, and by way of Emphaſis, ſo as to be taken notice of, and eſteem'd as ſuch, The City Faithful to God, and Righteous toward Men.</p>
+            <p>If it be asked, When this Prophecy was to be fulfill'd; Some make anſwer; At their return from <hi>Babylon.</hi> And thoſe who are of this Opinion, ſuppoſe the Threatning denoun<g ref="char:EOLhyphen"/>ced in the preceeding Words, to relate to the <hi>Babyloniſh</hi> Cap<g ref="char:EOLhyphen"/>tivity, and conſequently, that the Promiſe in the Text was to be made good, when they ſhould be reſtor'd to their own Country, and the City of <hi>Jeruſalem</hi> ſhould be new Built. And if ſo; it was actually fulfill'd, when <hi>Joſhua</hi> and <hi>Zerubbabel,
+<pb n="4" facs="tcp:54291:7"/>Ezra</hi> and <hi>Nehemiah</hi> had the Direction of their Publick Af<g ref="char:EOLhyphen"/>fairs, concerning whom, we have in the Sacred Story a very good Character, as of Wiſe and Good Men, and Excellent Governors. But others, (and I think, with greater probabili<g ref="char:EOLhyphen"/>ty) carry the matter farther, referring this Prophecy to the Times of the Goſpel. Theſe reckon, That the Judgment here threatn'd, was the great deſolation of <hi>Judea</hi> and <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> by the <hi>Romans;</hi> and that the Promiſe of <hi>purging away their Droſs, and taking away all their Tin,</hi> was to be fulfill'd under the Reign of the <hi>Meſſiah,</hi> and that, as <hi>Jeruſalem</hi> which then was, was a Type and Figure of the Chriſtian Church; ſo the Promiſe which was made to that City, and in ſome meaſure fulfill'd at the end of the <hi>Babyloniſh</hi> Capti<g ref="char:EOLhyphen"/>vity, was yet to have a more complete accompliſhment in the Anti-type. And if ſo, then by <hi>reſtoring Judges as at the firſt, and Counſellors as at the beginning,</hi> muſt be under<g ref="char:EOLhyphen"/>ſtood, That as the Chriſtian Church ſhould abound with Men of reformed Tempers and Practices, ſo there ſhould be Chriſtian Governors and Magiſtrates, who ſhould prove eminent Inſtruments in this Reformation. And ſuch, no doubt, there have been in moſt Ages of Chriſtianity. Tho', I think, whoſoever takes a view of the Chriſtian World, and well conſiders, what the ſtate of Things has been, and ſtill is therein, will judge it reaſonable to hope, that this Promiſe is yet to have a more eminent Accompliſhment, than it has had hitherto. But to let that paſs; I proceed to conſider the Words ſo as may be moſt proper, with reſpect to the preſent Occaſion, and this I ſhall do in the follow<g ref="char:EOLhyphen"/>ing Method.</p>
+            <p>
+               <hi>Firſt,</hi> I ſhall enquire into the Character of thoſe Gover<g ref="char:EOLhyphen"/>nors with which the People of <hi>Iſrael</hi> were bleſt <hi>at the begin<g ref="char:EOLhyphen"/>ing,</hi> who are here made the Patterns of thoſe which ſhould be <hi>reſtored</hi> to them.</p>
+            <pb n="5" facs="tcp:54291:7"/>
+            <p> 
+               <hi>Secondly,</hi> I ſhall ſhew, how ſuch Governors are a Publick Bleſſing to the People over whom they are placed, inſo<g ref="char:EOLhyphen"/>much that a City in which they Rule, may from them <hi>be called, The City of Righteouſneſs, the Faithful City.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> I ſhall briefly apply what ſhall be delivered on this Argument, to our own Uſe.</p>
+            <p>
+               <hi>Firſt,</hi> To enquire into the Character of thoſe Governors, with which the People of <hi>Iſrael</hi> were bleſt <hi>at the beginning,</hi> who are here made the Patterns of thoſe which ſhould be <hi>reſtored</hi> to them.</p>
+            <p>By thoſe which they had <hi>at the beginning,</hi> I have already obſerved, is to be underſtood, thoſe who rul'd over them, in the beginning of their Common-wealth, when they were brought out of <hi>Egypt</hi> and conducted into <hi>Canaan.</hi> Such were a great part of the <hi>Judges</hi> whom <hi>God gave them,</hi>
+               <note place="margin">Acts 13.19, 20.</note> as St. <hi>Paul</hi> ſpeaks, from the time of their being ſettled in <hi>Canaan,</hi> unto the days of <hi>Samuel, for about the ſpace of four hundred and fifty years;</hi> theſe being Men rais'd up by Providence from time to time, as there was occaſion, for delivering them from their Enemies, and preſerving Peace and good Order amongſt them at Home. But more eſpecially, <hi>Moſes</hi> himſelf, who was their Conductor from <hi>Egypt</hi> thro' the Wilderneſs; and after him <hi>Joſhua,</hi> who led them into the Land of Reſt; and at the concluſion of their Common-wealth, <hi>Samuel</hi> the Prophet, may be ſuppos'd to be referr'd to in this paſſage of our Text. Theſe were Per<g ref="char:EOLhyphen"/>ſons, who, by all the account which we have of them, ap<g ref="char:EOLhyphen"/>pear to have had a ſincere and awful regard to God and to his Laws, with a fervent deſire to promote his Honor, and do his Will. They were Men likewiſe of a Publick Spirit, poſ<g ref="char:EOLhyphen"/>ſeſs'd with an hearty Love to their Country, and a great Zeal for aſſerting its Liberties, and promoting its Welfare.
+<pb n="6" facs="tcp:54291:8"/>They made it the buſineſs of their Lives, that to which they devoted themſelves, and which they preferr'd much before any of their Private Concernments or Intereſts, to guard and defend their People from their Enemies, and to propagate Piety and Virtue, Truth and Righteouſneſs and Peace a<g ref="char:EOLhyphen"/>mongſt them.</p>
+            <p>And as this was the juſt Character of thoſe who were under God, their Chief Governors, (for ſuch all thoſe whom I have now mention'd were) ſo their inferior Magiſtrates al<g ref="char:EOLhyphen"/>ſo were, <hi>at the firſt</hi> Perſons of the ſame Stamp, as we may be aſſur'd by reflecting upon two Paſſages, in the Books of <hi>Exodus</hi> and <hi>Deuteronomy,</hi> very full and plain to our preſent purpoſe, where we have an account how thoſe Perſons were qualified, who were by <hi>Moſes</hi> firſt appointed to rule the People under him. The former Paſſage is that which con<g ref="char:EOLhyphen"/>tains the Advice of <hi>Jethro, Moſes</hi>'s Father-in-law, when he obſerv'd, how much too heavy a burden it was for one Man to Judge all that People by himſelf. Upon this he Counſels <hi>Moſes</hi> to appoint others, who ſhould be ſubordi<g ref="char:EOLhyphen"/>nate to him, and aſſiſt him in that great Work; and what ſort of Perſons they ſhould be, he tells him in thoſe remarkable Words,
+<note place="margin">Exod. 18.21.</note> 
+               <hi>Thou ſhalt provide,</hi> ſays he, <hi>out of all the People, able Men, ſuch as fear God, Men of Truth, hating Covetouſneſs, and place ſuch over them.</hi> And we find, that <hi>Moſes</hi> did accordingly, in the other Paſſage which I am to produce, <hi>viz.</hi> where he thus declares to the People,
+<note place="margin">Deut. 1.9, 13, 14, 15.</note> 
+               <hi>I ſpake unto you,</hi> ſays he, <hi>at that time,</hi> (name<g ref="char:EOLhyphen"/>ly, when he put <hi>Jethro</hi>'s Advice in execution) ſaying, <hi>Take ye wiſe Men and underſtanding, and known among your Tribes, and I will make them Rulers over you. And ye anſwered me and ſaid, The thing which thou hast ſpoken is good for us to do. So I took the chief of your Tribes, wiſe Men and known, and made them Heads over you.</hi> Now by reflecting upon theſe two Paſſages, we may clearly diſcern
+<pb n="7" facs="tcp:54291:8"/>the Character of thoſe Magiſtrates, with which that People were bleſt <hi>at the beginning.</hi>
+            </p>
+            <p>They were <hi>able men.</hi> The word in the Original, like that in our <hi>Engliſh</hi> Tongue, is of a large ſignification, de<g ref="char:EOLhyphen"/>noting the ſeveral kinds of Abilities, which are proper in this caſe. So that by <hi>able men</hi> may be underſtood, ei<g ref="char:EOLhyphen"/>ther men endued with a competency of bodily Health and Strength; or men of Subſtance, Wealthy men; or Men of Natural Courage and Fortitude; or laſtly, Men of Judgment and Prudence. There is no queſtion, but that each of theſe may be eſteem'd <hi>able men,</hi> in ſome degree qualified for the diſcharge of Publick Offices. A compe<g ref="char:EOLhyphen"/>tent meaſure of Health and Strength enables Men to under<g ref="char:EOLhyphen"/>go the fatigue of Publick Buſineſs, and to diſpatch it with eaſe and pleaſure to themſelves and others. A plentiful Eſtate qualifies the Owner of it to bear the Charges which uſually attend Honor and Publick Employments, and to maintain the Poſt, which is highly expedient, if not ne<g ref="char:EOLhyphen"/>ceſſary for ſuch Perſons. Beſides that where an Eſtate is either deſcended from Anceſtors, or acquir'd by honeſt In<g ref="char:EOLhyphen"/>genuity and Induſtry, it uſually procures regard; and which is yet more, puts the Poſſeſſor of it into a capacity of lay<g ref="char:EOLhyphen"/>ing more Obligations upon others, and conſequently of pro<g ref="char:EOLhyphen"/>curing greater Reſpect from them. And above all, it does, or ſhould, raiſe Men above the temptation of doing an ill, an unjuſt, an unfair, or ſo much as a mean Action. Riches are the Materials and Inſtruments of Virtue, where thoſe who have them know how to uſe them aright. So again, Natural Courage or Fortitude of Mind qualifies him that is indued with it, to encounter Difficulties, to bear up againſt Contradiction, to do that which is fit, in ſpight of all Diſcouragement, and to maintain a juſt Authority againſt all Oppoſition; all which are excellent Diſpoſitions in a Magiſtrate. And for Judgment and Prudence, it will,
+<pb n="8" facs="tcp:54291:9"/>I take it for granted, be readily allow'd, that theſe are at leaſt as neceſſary and uſeful Qualifications, as any of the former, and therefore theſe ſeem more particularly to be meant by the word <hi>able,</hi> according to the expoſition of <hi>Moſes</hi> him<g ref="char:EOLhyphen"/>ſelf,
+<note place="margin">Deut. 1.13.</note> where inſtead of <hi>able men,</hi> he orders the People to preſent to him <hi>wiſe men and underſtanding.</hi> And this is the firſt part of the Character of thoſe Magiſtrates, which they had <hi>at the beginning:</hi> but this is not all; there is a more conſiderable part of their Character yet behind.</p>
+            <p>What I have hitherto been ſpeaking of concerns only the Abilities of <hi>Nature</hi> or <hi>Fortune:</hi> but that which I am now going to mention relates to their <hi>Moral</hi> Qualifications. It follows therefore; <hi>Such as fear God, men of truth, hating covetouſneſs;</hi> than which a more complete Character of a good Magiſtrate cannot I think be given in ſo few words.</p>
+            <p>
+               <hi>Such as fear God,</hi> that is, have an inward and hearty re<g ref="char:EOLhyphen"/>verence toward the Divine Majeſty, which they diſcover by a ſerious regard to his Worſhip and Service, by a zeal for his Honor and Intereſt in the World, and by a conſci<g ref="char:EOLhyphen"/>entious obſervance of all his Precepts. Theſe are the Men that act upon Principles, being mov'd not by worldly de<g ref="char:EOLhyphen"/>ſign or intereſt, not by popular applauſe or vain-glory; but by Conſcience, which they make appear by an equal and impartial regard to all the parts of their duty, and by a ſteady adherence to it upon all occaſions.</p>
+            <p>Again, <hi>Men of truth,</hi> Perſons of Integrity, ſuch as one may firmly truſt and rely upon<g ref="char:punc">▪</g> whoſe meaning may be cer<g ref="char:EOLhyphen"/>tainly known by their expreſſions, whoſe word is ſo ſacred, that their plain affirming or denying might fairly paſs for a ſufficient Evidence, and whoſe Promiſes one may be confi<g ref="char:EOLhyphen"/>dent will be punctually and ſurely perform'd; Men that have no deſign to ſerve by trick or artifice, no intereſt to be carried on by falſhood, no reaſon and no inclination to deceive; who are in a word, True themſelves, and
+<pb n="9" facs="tcp:54291:9"/>lovers and encouragers of Truth in all others.</p>
+            <p>And Laſtly, <hi>hating Covetouſneſs;</hi> that is, not only free from that ſordid Diſpoſition; but fill'd with an abhorrence of it, and conſequently, Perſons of large and generous Souls, who love God and their Country infinitely better than their Wealth; who, as they deteſt all baſe and unworthy ways of Gain, ſo they know no other conſiderable Advan<g ref="char:EOLhyphen"/>tage in Riches, but a capacity of uſing them to the Honor of their Maker, and the Good of their Fellow-creatures.</p>
+            <p>And that theſe alſo are proper Qualifications of a good Magiſtrate, I ſuppoſe, will eaſily be granted. The former, I mean, the Abilities of <hi>Nature</hi> and <hi>Fortune</hi> before menti<g ref="char:EOLhyphen"/>on'd, do not of themſelves render him that enjoys, or him that wants them, a Virtuous or Vicious, a Good or a Bad Man. They are indeed all of them convenient, and ſome of them neceſſary Abilities for a good Magiſtrate: But any of them may be pernicious to the Publick, if lodg'd in ill Hands. Health and Wealth, Courage and Underſtanding, if an ill-deſigning Man has the management of them, are but ſo many Advantages which he is poſſeſt of, againſt thoſe he has to do with, which he may employ to their great detriment. Whereas the <hi>moral</hi> Qualifications which I laſt mention'd, as they cannot from the nature of them, be ill-uſed themſelves, ſo they will certainly improve all the other to the greateſt advantage, rendering them eminently ſerviceable both to Magiſtrates and People.</p>
+            <p>As for <hi>the fear of God,</hi> it is the foundation and ſupport of all other Virtues, 'tis that without which no one can be a good Man in a private Station, nor thorowly ſo in a publick. For what can be more abſurd, than for thoſe who are God's Vice-gerents on Earth, for thoſe who de<g ref="char:EOLhyphen"/>rive all the Authority and Power which they pretend to, from God, for thoſe who bear his Sword, and repreſent his Majeſty, and have from thence the very Style and Title
+<pb n="10" facs="tcp:54291:10"/>of <hi>Gods,</hi> to be all this while devoid of a juſt ſenſe of God upon their Minds? How ſhould they repreſent Him decent<g ref="char:EOLhyphen"/>ly, or uſe that Authority which He hath deputed to them, according to his Appointment?</p>
+            <p>And then for their being <hi>Men of Truth;</hi> Thoſe, a great part of whoſe buſineſs it is, to ſearch out Truth, to puniſh all Falſhood and Injuſtice, and to promote Truth and Righte<g ref="char:EOLhyphen"/>ouſneſs in the Body which they Govern, can never do theſe Things with any Heart, with any Authority, with any Grace, or to any good purpoſe, if they know them<g ref="char:EOLhyphen"/>ſelves, or are known by others to be Falſe and Unrighteous Men.</p>
+            <p>Nor is the <hi>hating of Covetouſneſs</hi> leſs neceſſary than ei<g ref="char:EOLhyphen"/>ther of the former. Covetouſneſs contracts the Spirit of a Man, and thereby renders it unfit for a Publick Charge and Truſt. The Man that truly loves none beſides himſelf, can<g ref="char:EOLhyphen"/>not be ſuppos'd to deſign the good of others, eſpecially of the whole Body to which he is related; and he that values Wealth above either Honor or Conſcience, muſt needs be an improper Inſtrument for propagating Virtue, or promo<g ref="char:EOLhyphen"/>ting the Publick weal. But of this, I may have occaſion to ſay more, under my next General Head.</p>
+            <p>Only before I enter upon that, it may not be amiſs to take notice of one particular more obſervable in the Paſſage I cited out of <hi>Deuteronomy, viz.</hi> where <hi>Moſes</hi> orders the People to preſent to him ſuch as were <hi>known among their Tribes;</hi> and ſays again of himſelf, that <hi>he took the chief of their Tribes, wiſe Men, and known, and made them Heads over them.</hi> By which is imply'd, that thoſe who are ad<g ref="char:EOLhyphen"/>vanc'd to any Publick Office, ſhould be <hi>Men of Note</hi> and <hi>Eminency,</hi> ſuch as have been for ſome time obſerv'd and known to be endu'd with the Qualifications before men<g ref="char:EOLhyphen"/>tion'd, Perſons who have acquir'd a general Reputation among their People.</p>
+            <pb n="11" facs="tcp:54291:10"/>
+            <p> This is in truth highly expedient, for the rendering their Authority more conſiderable, there being oftentimes more force in a good Name, than in Power it ſelf; and the Re<g ref="char:EOLhyphen"/>ſpect which is inwardly born towards thoſe in Authority, being apt to lead Inferiors farther into Obedience, than meer Commands or Threatnings can do; at leaſt, Reputa<g ref="char:EOLhyphen"/>tion joyn'd with Authority has all the Force and Power in it, that a Magiſtrate is capable of. Beſides that the more univerſal any Man's Reputation is, the greater degree of aſſurance we have, that he is endu'd with the good Qua<g ref="char:EOLhyphen"/>lities which are aſcribed to him. He, who is known and eſteem'd by a few, <hi>may be</hi> a Wiſe and a Good Man: But he whom all Men repute ſo, is more probably ſuch an one.</p>
+            <p>I proceed now, to the next General Head, I propos'd, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> To ſhew how ſuch Governors are a publick Bleſſing to the People over whom they are placed, inſo<g ref="char:EOLhyphen"/>much that a City in which they Rule, may from them be call'd, <hi>The City of Righteouſneſs, the Faithful City.</hi> And of this an Account may be given in theſe two Particulars.</p>
+            <p n="1">I. Where ſuch Governors bear Rule, it is a good ſign of the Piety and Juſtice, and in general of the Virtue of the People over whom they preſide.</p>
+            <p n="2">II. They are certainly the proper Means and Inſtruments for promoting Piety and Juſtice, and all manner of Virtue, in the Places where they exerciſe their Authority.</p>
+            <p n="1">I. Where ſuch Governors bear Rule, it is a good ſign of the Piety and Juſtice, and in general of the Virtue of the People over whom they preſide.</p>
+            <pb n="12" facs="tcp:54291:11"/>
+            <p> Governors do for the moſt part repreſent thoſe whom they Govern, in their Moral Qualities, as well as in other Reſpects; ſo that when a Nation or City is generally Honeſt and Virtuous, the Magiſtrates, who are a part of the Body, are uſually ſo too: As on the contrary, where there is a gene<g ref="char:EOLhyphen"/>ral Corruption or Depravation in any Society of Men, the Magiſtrates very rarely eſcape the Infection. This was re<g ref="char:EOLhyphen"/>markable in the <hi>Roman</hi> Common-wealth, in which there were, as in that of the <hi>Iſraelites, Judges at the firſt, and Coun<g ref="char:EOLhyphen"/>ſellors at the beginning,</hi> fit to be propos'd as Examples to thoſe who ſhould ſucceed. But as Covetouſneſs, Ambition, Luxury, and all ſorts of Vice increas'd among that People, ſo their Magiſtrates were tainted together with the reſt of the Body; and as they help'd to propagate the Corruption, ſo they were an evident ſign of a general Depravation a<g ref="char:EOLhyphen"/>mong them.</p>
+            <p>And this muſt eſpecially be ſo, where Magiſtrates are Choſen by the People. For Men will chooſe what they like, and good-liking, we know, proceeds from a reſem<g ref="char:EOLhyphen"/>blance in Temper and Manners.</p>
+            <p n="2">II. It is certain, that Able and Good Governors are proper Means and Inſtruments, for promoting Piety and Juſtice and all manner of Virtue, in the Places where they exerciſe their Authority; and that both by their Example, their Prayers, and their Endeavours.</p>
+            <p n="1">I. By their Example. Both Virtue and Vice are pro<g ref="char:EOLhyphen"/>pagated more effectually by Example, than either by Per<g ref="char:EOLhyphen"/>ſuaſion or Command, and no Example like that of a Per<g ref="char:EOLhyphen"/>ſon in Authority. He ſtands upon high Ground, ſo that whatſoever he does is ſeen and obſerv'd by all about him;
+<pb n="13" facs="tcp:54291:11"/>and 'tis faſhionable, and therefore reputable to imitate thoſe above us. Beſides that Inferiors account it their Intereſt, to ingratiate themſelves with their Superiors; and they will eaſily apprehend, that the way to do this is, by endeavour<g ref="char:EOLhyphen"/>ing to imitate them.</p>
+            <p>Thus for inſtance, a Magiſtrate who <hi>fears God,</hi> will by his conſtant attending the Publick Worſhip, invite and draw others to accompany him; and by the gravity and ſeriouſ<g ref="char:EOLhyphen"/>neſs of his own Behaviour, will admoniſh them to demean themſelves decently, when they are preſent. No one that is not impudently and incorrigibly Wicked, will preſume to diſhonour the Sacred Name of God, by profane Swear<g ref="char:EOLhyphen"/>ing or Curſing in his preſence, whom he knows to be not only free from ſuch vile Practices himſelf, but heartily to deteſt them. He will by his impartial Obſervation of all the Divine Laws, both inſtruct and excite all ſorts of Peo<g ref="char:EOLhyphen"/>ple to do the like.</p>
+            <p>A Magiſtrate who is <hi>a Man of Truth,</hi> as he will en<g ref="char:EOLhyphen"/>courage Honeſt and Good Men to ſhew themſelves, and to act freely and boldly; ſo a Knave will ſneak before him, as being aſham'd to have his Falſeneſs and Injuſtice diſcover'd and lay'd open to him.</p>
+            <p>A Generous and Charitable Magiſtrate will, if it be poſ<g ref="char:EOLhyphen"/>ſible, warm and open and enlarge the frozen and contracted Hearts of narrow ſoul'd Men, and excite them in imita<g ref="char:EOLhyphen"/>tion of him, to do ſomething handſome and uſefull, if not out of juſt Principles, yet at leaſt for their own Credit, and conſequently, if what will hardly entitle them to any Reward, yet will redound to the Publick Benefit.</p>
+            <p>In a word, an Able and Good Magiſtrate will by his
+<pb n="14" facs="tcp:54291:12"/>Example inſtruct and edify all that are capable of being improv'd, and will put all Impious and Vicious Men out of countenance.</p>
+            <p n="2">II. Such Magiſtrates will farther promote Virtue by their Prayers to Almighty God, for the People committed to their Care.
+<note place="margin">Joh. 9.31.</note> 
+               <hi>We know that God heareth not ſinners: but if any Man be a Worſhipper of God, and doth his Will, him he heareth.</hi> It is pleaſing to God, to teſtify his Approbation of Good Men, and to encourage their Piety and Virtue, by hearing their Prayers, and that not for themſelves only, but for thoſe alſo to whom they are related. Thus the Pray<g ref="char:EOLhyphen"/>ers of good Parents obtain Bleſſings for their Children; and of good Governors for their People. And as nothing can gratify ſuch Magiſtrates more, than to ſee Piety and Virtue propagated under their Conduct, ſo this is what they will certainly make one of their moſt earneſt Petitions. The <hi>Iſraelites</hi> were not leſs beholden to the Prayers of <hi>Moſes, Joſhua,</hi> and <hi>Samuel,</hi> than to their Endeavours, as we find in divers Inſtances in their Hiſtory; and that God, who was often prevail'd with by them, when they interceeded for that People, is ſtill ready to hear the Prayers of all ſuch Magiſtrates as ſhall reſemble them.</p>
+            <p n="3">III. Such Magiſtrates are farther the great Means and In<g ref="char:EOLhyphen"/>ſtruments of promoting Virtue, by their Endeavours. They are indeed ſome of the principal Inſtruments of God, appoin<g ref="char:EOLhyphen"/>ted to this very purpoſe, thoſe whom he raiſeth up with this intention; and when they diſcharge their Duty faith<g ref="char:EOLhyphen"/>fully, they ſeldom fail of anſwering their End in a good degree.
+<note place="margin">Rom. 13.</note> They fill up the Character which St. <hi>Paul</hi> gives of a good Ruler,
+<milestone type="tcpmilestone" unit="unspecified" n="3,"/> that <hi>he is not a terror to good works; but to the evil;</hi> ſo that thoſe who <hi>do that which is good, ſhall have praiſe</hi> (not only verbal, but real praiſe, that is reward) <hi>of the
+<pb n="15" facs="tcp:54291:12"/>ſame. For he is the Miniſter of God for good,</hi>
+               <note place="margin">Ver. 4.</note> and <hi>he heareth not the ſword in vain; but is a revenger, to execute wrath upon him that doth evil.</hi> And this is his conſtant buſineſs;
+<note place="margin">Ver. 6.</note> 
+               <hi>he is God's miniſter, attending continually upon this very thing.</hi>
+            </p>
+            <p>Thus the Magiſtrate who <hi>fears God,</hi> remembers that he is deputed by Him, that he derives his Authority from Him, and that he muſt be accountable to Him for the exerciſe of that Power wherewith he is entruſted, and therefore will from a principle of Conſcience, which is the only ſure tye and bond of a reaſonable Creature, diſcharge his whole Duty, to the beſt of his skill and power. And foraſmuch as he is ſenſible, that the Happineſs of the Publick depends up<g ref="char:EOLhyphen"/>on the Bleſſing of the Almighty, and that the way to ſecure his favour, is to have his Precepts obſerv'd, he will not ſuf<g ref="char:EOLhyphen"/>fer any of thoſe Laws to be openly violated, which relate immediately to his Service and Honor, any more then thoſe which relate to Juſtice among men. He cannot indeed change the Hearts of men; but he can in a great meaſure re<g ref="char:EOLhyphen"/>ſtrain and regulate their Words and Actions; and therefore will think himſelf obliged to ſee, that no publick affront be offer'd to the Divine Majeſty, in word or deed, without exe<g ref="char:EOLhyphen"/>cuting the Sentence which the Law paſſes upon the Of<g ref="char:EOLhyphen"/>fender.</p>
+            <p>In like manner a Magiſtrate who is <hi>a Man of Truth,</hi> will make it his conſtant care to maintain Truth and Juſtice, thoſe great Bands of Human Society; he will according to the Precept of <hi>Moſes, hear the cauſe between his brethren,</hi>
+               <note place="margin">Deut. 1.16, 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>and judge righteouſly between every man and his brother; he will not reſpect perſens in judgment; but hear the ſmall as well as the great, and not be afraid of the face of man,</hi> as conſidering that <hi>the judg<g ref="char:EOLhyphen"/>ment is God's.</hi> He will not be biaſs'd by Flattery or Fear, by Intereſt or Favor, by Party or Faction; but will ever be
+<pb n="16" facs="tcp:54291:13"/>on that ſide, on which Truth and Juſtice are to be found.</p>
+            <p>And laſtly a Magiſtrate who <hi>hates Covetouſneſs,</hi> will not be drawn into any unworthy Action by the hope of Gain; nor decline the doing a juſt or an handſome thing, for fear of the Charge of it. He will need no Gift to encourage him to do right; much leſs will he accept of any, to prevail with him to do wrong. He will upon all occaſions teſtifie his deteſtation of Corruption and Bribery, that bane of Human Society, that ſource of all manner of Unrighteouſneſs, ſo that no man of ſenſe will dare to attempt him that way, for fear of being not only diſappointed, but expos'd. He will not for his own pri<g ref="char:EOLhyphen"/>vate advantage diſpenſe his Favours, or diſpoſe of any Places of publick Truſt, to unfit &amp; unworthy men. He will not think it ſair, to increaſe his own Eſtate, by injuring the Publick: ſo far from that, that looking upon himſelf as deſign'd for a Publick Benefactor, he will lay out his Time, his Strength, and his Eſtate, if occaſion be, to the Publick Benefit; he will be always ready to every good work, whether of Piety, Cha<g ref="char:EOLhyphen"/>rity, or true Generoſity, whereby God may be honour'd, and the Society to which he is related may receive advantage. He will rejoyce in an opportunity of being uſeful to his Country or City, as much as the covetous man can do in in<g ref="char:EOLhyphen"/>creaſing his private Eſtate. In fine, he will think himſelf abun<g ref="char:EOLhyphen"/>dantly recompens'd for all his pains and trouble and charge, in the Execution of his Office, if having ſerv'd his Generation faithfully in his place, and kept a good Conſcience in the diſcharge of his Duty, he may leave a good Name behind him, and die with the expectation of a future Reward.</p>
+            <p>And certainly where any number of ſuch Men as theſe bear rule, their City may well <hi>be call'd the City of Righteouſ<g ref="char:EOLhyphen"/>neſs, the faithful City.</hi>
+            </p>
+            <pb n="17" facs="tcp:54291:13"/>
+            <p> All that now remains is in the <hi>third</hi> and laſt place, to ap<g ref="char:EOLhyphen"/>ply what has been ſaid to our own Uſe, with reſpect to the occaſion of our preſent aſſembling, and this I ſhall do in a few words.</p>
+            <p>I have with all ſincerity and plainneſs laid before you in ſhort the Character of good Magiſtrates, and ſuch as God in our Text promis'd, as a Bleſſing to the City of <hi>Jeruſalem,</hi> probably meaning thereby, as I before obſerv'd, that there ſhould be ſuch Magiſtrates in the time of the Goſpel. I am ſure the Precepts of the Goſpel would make all Chriſtian Magiſtrates ſuch, if duly attended to; nay we have the concurrence of Reaſon as well as Revelation in this caſe. For, as you have heard, it was the advice of <hi>Jethro,</hi> a <hi>Prince</hi> and <hi>Prieſt</hi> of <hi>Midian,</hi> not an <hi>Iſraelite,</hi> that ſuch ſhould then be choſen; which advice as he gave by the light of Natural Reaſon, ſo it was approv'd and con<g ref="char:EOLhyphen"/>firm'd by God, and leſt upon Record by <hi>Moſes</hi> in Holy Writ, as a ſtanding Character of a good Magiſtrate, and conſequently it always was and will be ſo to the end of the World. All therefore that we have to inferr is in theſe <hi>two</hi> Particulars.</p>
+            <p>
+               <hi>Firſt,</hi> That thoſe who have the right of Electing Ma<g ref="char:EOLhyphen"/>giſtrates, or Inveſting them with their Authority, ſhould as near as may be chooſe Perſons to whom this Character agrees. So <hi>Moſes</hi> and the People of <hi>Iſrael</hi> did, the latter by electing and preſenting ſuch Men, and the former by ac<g ref="char:EOLhyphen"/>cepting them, and conferring Authority upon them; and theſe Magiſtrates are by our Text made Precedents for fu<g ref="char:EOLhyphen"/>ture Times.</p>
+            <p>I hope I need not urge this with many words. It is the
+<pb n="18" facs="tcp:54291:14"/>happineſs of this City to be always furniſh'd with a con<g ref="char:EOLhyphen"/>ſiderable number of Men, to whom all the parts of this Character may be juſty aſcribed; and 'tis to be charitably preſum'd, that ſince it is your Cuſtom, upon ſuch Occa<g ref="char:EOLhyphen"/>ſions as theſe, firſt to come to the Houſe of God, and make your Acknowledgments of him, you alſo come with Minds diſpos'd to follow the Directions of his Word.</p>
+            <p>Nor would I have what I have ſaid applied meerly to the Buſineſs of this Day; but more eſpecially to thoſe Elections, by which you fill up the Vacancies of the Magiſtracy in this City. Your particular Buſineſs on this Day is only to take One out of that Honorable Court, to every Member of which you have already given a rea<g ref="char:EOLhyphen"/>ſonable expectation of the Chief Magiſtracy, by your firſt Electing them into that Body. And I believe you will allow me to ſay without offence, That nothing but a very great, and weighty, and plain Reaſon ſhould at any time move you to break through that Order, which is moſt regular and natural in ſuch Caſes. And I cannot forbear wiſhing, that for Order and Peace ſake, and the reſtoring of Love and Union among the Inhabitants of this City, we might in this reſpect, as well as in others, have <hi>Judges</hi> again <hi>as at the firſt, and Counſellors as at the beginning;</hi> I mean Men choſen for their Abilities and their Virtues, without any regard to thoſe Parties which have been form'd, and thoſe Names of Diſtinction which have been invented of late years.</p>
+            <p>Suffer me therefore, I beſeech you, ſeriouſly to admo<g ref="char:EOLhyphen"/>niſh you, that you would lay aſide all Prejudice and Paſ<g ref="char:EOLhyphen"/>ſion, all Animoſities and unreaſonable Jealouſies; that you would exerciſe your Charity, by forgetting all former
+<pb n="19" facs="tcp:54291:14"/>Provocations and Reſentments; and that you would ſhew your Wiſdom, both by rectifying whatever has been amiſs on any ſide for the time paſt, and by reſolving to joyn henceforward unanimouſly in promoting the Common Good.</p>
+            <p>I make no doubt to affirm, what is certainly true, both in Reaſon and by Experience, That in Times of Diviſion and Contention in any Society, they are uſually the beſt Men, who are leaſt engaged in any Party; and as the Zea<g ref="char:EOLhyphen"/>lots of all Parties are ſeldom good Friends to the whole Body, ſo they very often fail that very Party which moſt of all conſides in them: whereas an able and an honeſt Man, <hi>one who fears God,</hi> is <hi>a Man of Truth, and a hater of Covetouſneſs,</hi> can never be really injurious to any ſide, and will always prove a true and a ſure Friend to the whole.</p>
+            <p>In a word; In this and all other your Elections, you may ſafely truſt a Man of Virtue, a Lover of God and his Country, and a hearty Friend to the Eſtabliſhment of this Kingdom both in Church and State, whatever other Denomination may be given him by the contending Parties.</p>
+            <p>
+               <hi>Secondly,</hi> That which I would cloſe with is, an earneſt Exhortation to all thoſe who are or ſhall be honour'd with any Publick Truſt, to approve themſelves ſuch as I have deſcribed, that ſo they may be a Publick Bleſſing to their Country.</p>
+            <p>It is undoubtedly the Duty of every private Man, <hi>to fear God,</hi> to be <hi>a Man of Truth, and to hate Covetouſneſs:</hi> but
+<pb n="20" facs="tcp:54291:15"/>when you are called from a private to a publick Station, your Obligation is ſtill greater. You are ſet in open view; and as your demeanor will be more obſerv'd, ſo it will have its influence much farther than before. Your Repu<g ref="char:EOLhyphen"/>tation is highly concern'd in the matter; but which is more conſiderable, your Intereſt, I mean your Spiritual and Eternal Intereſt is concern'd likewiſe. What might paſs for a Virtue in a private Man, may not always be worthy of that name in a Magiſtrate; and what was a Fault in the former, may be a Crime in the latter. Your Country, and thoſe who have thought you worthy of advancement a<g ref="char:EOLhyphen"/>mong them, have a right in you, and a juſt and reaſona<g ref="char:EOLhyphen"/>ble expectation from you; and Almighty God, who ex<g ref="char:EOLhyphen"/>pects an account of all the Talents which he hath given to Men, will reckon with you very ſtrictly for the uſe of your Authority and Power. He expects, that thoſe who repre<g ref="char:EOLhyphen"/>ſent him, ſhould do it becomingly, and he will either re<g ref="char:EOLhyphen"/>ward them more liberally, or puniſh them more ſeverely, in proportion to their behaviour, at the great Day of Ac<g ref="char:EOLhyphen"/>count.</p>
+            <p>You who are Magiſtrates of this City have an op<g ref="char:EOLhyphen"/>portunity put into your hands of bringing great Glory to Almighty God, by doing much good to the whole Nation, which is apt to take Example, and to receive Influence from hence. You may at the ſame time e<g ref="char:EOLhyphen"/>ſtabliſh to your ſelves a juſt and laſting Fame in this World, and lay up a very glorious Reward in the World to come.</p>
+            <p>To conclude all; You may according to the declara<g ref="char:EOLhyphen"/>tion of the Prophet in the Text, be both a Bleſſing and a Glory to the City of which you are Patrons, rendering
+<pb n="21" facs="tcp:54291:15"/>it truly honourable by your good management. For if you are <hi>Judges as at the firſt, and Counſellors as at the begin<g ref="char:EOLhyphen"/>ning,</hi> after that your City alſo <hi>ſhall be call'd the City of Righteouſneſs, the faithful City.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:54291:16" rendition="simple:additions"/>
+            <head>
+               <hi>BOOKS Printed for</hi> Matthew Wotton <hi>at the</hi> Three-Dagger <hi>near the</hi> Inner-Temple-Gate <hi>in</hi> Fleetſtreet.</head>
+            <p>A Sermon Preach'd before the King, in St. <hi>James</hi>'s Chappel, <hi>January</hi> 30th 1699. By <hi>Samuel Bradford,</hi> Rector of St. <hi>Mary le Bow,</hi> and Chaplain in Ordinary to his Majeſty.</p>
+            <p>A <hi>Guide to the Devont Chriſtian.</hi> In Thee Parts. The Firſt containing Meditati<g ref="char:EOLhyphen"/>ons and Prayers affixed to the days of the Week; Together with many Occaſional Prayers for particular Perſons. The Second for more Perſons than one, or a whole Family, for every day of the Week; Together with many Occaſional Prayers. The Third containing a Diſcourſe of the Nature and neceſſity of the Holy Sacrament; Together with Meditation thereon, Prayers and Directions for the worthy Receiving thereof. To which is Added. A Prayer for <hi>Aſh-Wedneſday,</hi> or any other time in <hi>Lent;</hi> for <hi>Good-Friday,</hi> and any day of Publick Faſting: By <hi>John Inett,</hi> M. A. Chanter of the Cathedral Church of <hi>Lincoln.</hi> The Fourth Edition Corrected.</p>
+            <p>
+               <hi>A Guide to Repentance,</hi> or the Character and Behaviour of the devout Chriſtian in Retirement; By <hi>John Inett,</hi> Chanter of the Cathedral Church of <hi>Lincoln.</hi>
+            </p>
+            <p>
+               <hi>The Chriſtians Pattern,</hi> or <hi>a Treatiſe of the Imitation of Jeſus Chriſt,</hi> in 4 Books with Cutts, written Originally in Latin, by <hi>Thomas à Kempis,</hi> now rendered into Engliſh. To which are added Meditations and Prayers for ſick Perſons; By <hi>Gerorge Stanhope.</hi> D. D. Chaplain in Ordinary to His Majeſty. Price 5 <hi>s.</hi> The ſame Book is Printed in a ſmaller Letter and ſold for 2 <hi>s.</hi>
+            </p>
+            <p>An Addreſs to thoſe of the Roman Communion in <hi>England:</hi> Occaſioned by the late Act of Parliament, for the further Preventing the Growth of Popery. 12<hi rend="sup">o</hi>.</p>
+            <p>An earneſt Invitation to the Sacrament of the Lord's Supper, wherein all the Ex<g ref="char:EOLhyphen"/>cuſes that men ordinarily make for their not coming to the Holy Communion, are Anſwered, by <hi>Joſ. Glanvil</hi> late Miniſter of <hi>Bath.</hi>
+            </p>
+            <p>A Defence of the 39 Articles of the Church of <hi>England,</hi> written in Latin by <hi>J. Ellis</hi> S.T.D. now done into Engliſh. To which are added the <hi>Lambeth</hi> Articles, together with the Judgment of Bp. <hi>Andrews,</hi> Dr. <hi>Overal,</hi> and other Eminent and Learned Men upon them.</p>
+            <p>Twelve Sermons preached upon ſeveral Occaſions; By the Right Reverend Fa<g ref="char:EOLhyphen"/>ther in God, <hi>Richard,</hi> Lord Bp. of <hi>Bath and Wells.</hi>
+            </p>
+            <p>—His 2d. and 3d. Parts of the Demonſtration of the Meſſias, in which the Truth of the Chriſt Religion is Defended; eſpecially, againſt the <hi>Jews.</hi>
+            </p>
+            <p>Dr. <hi>Barton</hi>'s Sermon to the Societies for Reformation of Manners. <hi>Octob.</hi> 2. 1699.</p>
+            <p>Occaſional Paper, N<hi rend="sup">o</hi> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.</p>
+            <p>The Hiſtory of the <hi>Revolution of Portugal</hi> in the year 1640. Or an Account of their Revolt from <hi>Spain;</hi> and Setting the Crown on the Heads of <hi>Don John of Bra<g ref="char:EOLhyphen"/>ganza,</hi> Father to <hi>Don Pedro</hi> the preſent King, and <hi>Catharine</hi> the Queen Dowager of <hi>England.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
